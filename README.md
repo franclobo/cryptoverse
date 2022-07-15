@@ -10,18 +10,18 @@ This mobile web app lets you get information from cryptocurrency.
 
 ## Getting Started
 
-The Financial Metrics mobile app consists of a home page where you can select the country and another page of details. This app was created usiing the API [Financial modeling prep API](https://financialmodelingprep.com/developer/docs/).
-Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
+The Cryptoverse mobile app consists of a home page where you can select the cryptocurrency and another page of details. This app was created using the API [Coinranking](https://rapidapi.com/Coinranking/api/coinranking1/).
+Original design idea by [JavaScript Mastery](https://www.youtube.com/watch?v=9DDX3US3kss).
 
 ## Live Demo
 
-[Finance - metrics](#)<br>
+[Cryptoverse](#)<br>
 
 ## Installation
 
-Clone this repository (you must have [Git Installed](git@github.com:franclobo/Financial-metrics.git)
+Clone this repository (you must have [Git Installed](git@github.com:franclobo/cryptoverse.git)
 
-`git@github.com:franclobo/Financial-metrics.git`
+`git@github.com:franclobo/cryptoverse.git`
 
 To install dependencies run
 
@@ -53,7 +53,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Original design idea by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio).
+- Original design idea by [JavaScript Mastery](https://www.youtube.com/watch?v=9DDX3US3kss).
 - Microverse curriculum.
 - My code reviewers.
 
